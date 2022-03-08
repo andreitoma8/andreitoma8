@@ -2,4 +2,4 @@
 - 👀 I’m interested in BlockChain technology and Crypto
 - 🌱 I’m experienced in Solidity, Python, Brownie, JavaScript, React/Next.js
 - 💞️ I’m looking to collaborate on cool ideas in the BlockChain space
-- 📫 How to reach me: @toma_andrei7 on Twitter
+- 📫 How to reach me: @toma_andrei8 on Twitter
