@@ -4,4 +4,4 @@
   
   Thank you for taking the time to read my story and if you share my passion or excitement for a decentralised future don't hesitate to contact me [@toma_andrei8](https://twitter.com/toma_andrei8) on Twitter! 
   
-  
+  [![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreitoma8)](https://github.com/anuraghazra/github-readme-stats)
