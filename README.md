@@ -2,6 +2,6 @@
 
   My mission as a Web3 developer is to help people with innovative ideas bring them to reality and make an impact in the lives of people all across the world. I truly believe Blockchain is the new internet and the next step in humanity's digital evolution.
   
-  Thank you for taking the time to read my story and if you share my passion or excitement for a decentralised future don't hesitate to contact me [@toma_andrei8](https://twitter.com/toma_andrei8) on Twitter! 
+  Thank you for taking the time to read my story and if you share my passion or excitement for a decentralised future don't hesitate to contact me [@toma_andrei8](https://twitter.com/toma_andrei8) on Twitter or at andrei.toma8@yahoo.com! 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreitoma8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
