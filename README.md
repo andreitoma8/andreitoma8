@@ -2,7 +2,7 @@
 
   My mission as a Web3 developer is to help people with innovative ideas bring them to reality and make an impact in the lives of people all across the world. I truly believe Decentralisation trough Blockchain technology is the next step in humanity's digital evolution.
   
-  I now carry out my personal mission at @NethermindEth : Nethermind's mission is to deliver cutting-edge research & development to allow accessible, transparent, borderless economy and governance.
+  I now carry out my personal mission at Nethermind. Our mission is to deliver cutting-edge research & development to allow accessible, transparent, borderless economy and governance.
 
   We pursue our mission by delivering **great products** and **expert consulting** fostering the development of decentralized solutions.
 
